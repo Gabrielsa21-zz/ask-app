@@ -2,7 +2,7 @@
 <html lang ="pt-br"></html>
     <head>
         <meta charset = "UTF-8">
-        <link rel="stylesheet" href="12.css">
+        <link rel="stylesheet" href="login.component.css">
     </head>
 
     <body>
@@ -16,11 +16,11 @@
 
                   <!-- Full-width images with number and caption text -->
                   <div class="mySlides fade">
-                    <img src="masc.png" width="250px" height="250px">   
+                    <img src="assets/masc.png" width="250px" height="250px">   
                   </div>
                 
                   <div class="mySlides fade">
-                    <img src="fem.png" width="250px" height="250px">
+                    <img src="assets/fem.png" width="250px" height="250px">
                   </div>
                 
                   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -38,23 +38,23 @@
                     <br>
                     <label class="label1" for="senha">Senha</label>
                     <input type="password" id="Senha" class="styleinput" required placeholder="********">
-                    <a class="p1" href="Senha Esquecida.html"><p class="p1">Esqueci minha senha</p></a>
-                    <a class="p2" href="Cadastre-se.html"><p class="p2">Ainda não tenho conta</p></a>
+                    <a class="p1" href="./pages/senhaesquecida/senhaesquecida.component.html"><p class="p1">Esqueci minha senha</p></a>
+                    <a class="p2" href="./pages/cadastro/cadastro.component.html"><p class="p2">Ainda não tenho conta</p></a>
                     <br>
                     <br>
                     <br>
                     <div id="enviar">      
                     <label></label>
-                        <a href="15.html">
+                        <a href="pages/home/components/home.component.html">
                         <input type="submit" value="Entrar" class="buttom">
                     </a>
                     </div>
 
-                  </div>
-                </form>
+               
+                </form> 
             </div>
 
         </main>
-        <script src="14.js" ></script>
+        <script src="login.component.ts" ></script>
         
     </body>
