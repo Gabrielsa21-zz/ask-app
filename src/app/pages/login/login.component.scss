@@ -197,6 +197,38 @@ table {
  .label2:hover{
     color:#ff7b00;
 }
+.label3{
+    margin-top: 110px;
+    margin-left: 100px;
+    font-family: Amatic Font;
+    font-size: 25px;
+    color: #0a747c;
+    text-shadow: -1px 0 rgb(12, 98, 104), 0 1px rgb(6, 85, 95),
+        1px 0 rgb(7, 53, 61), 0 -1px black;
+    display: inline-block;
+
+ }
+.label3:hover{
+    color:#ff7b00;
+    text-transform: 1.2px;
+}
+
+.label5{
+    margin-left: 320px;
+    font-family: Amatic Font;
+    font-size: 25px;
+    color: #0a747c;
+    text-shadow: -1px 0 rgb(12, 98, 104), 0 1px rgb(6, 85, 95),
+        1px 0 rgb(7, 53, 61), 0 -1px black;
+    display: inline-block;
+    margin-bottom: 30px;
+
+ }
+.label5:hover{
+    color:#ff7b00;
+    text-transform: 1.2px;
+}
+
 .styleinput2{
     width: 22px;
     height: 22px;
@@ -204,6 +236,60 @@ table {
     position: absolute;
     display: inline-block;
     margin-left:100px;
+}
+
+.styleinput3{
+    margin-left: 20px ;  
+    margin-top: 20px;
+    margin-right:100px;
+    color: goldenrod;
+    font-size: 16px;
+    border: 0.3em solid;
+    border-radius: 0.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: sans-serif;
+    letter-spacing: 0.1em;
+}
+
+.styleinput4{
+    margin-left: 90px ;  
+    margin-top: 20px;
+    margin-right:100px;
+    color: goldenrod;
+    font-size: 16px;
+    border: 0.3em solid;
+    border-radius: 0.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: sans-serif;
+    letter-spacing: 0.1em;
+}
+.styleinput5{
+    margin-left: 70px ;  
+    margin-top: 20px;
+    margin-right:100px;
+    color: goldenrod;
+    font-size: 16px;
+    border: 0.3em solid;
+    border-radius: 0.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: sans-serif;
+    letter-spacing: 0.1em;
+}
+.styleinput6{
+    margin-left: 30px ;  
+    margin-top: 20px;
+    margin-right:10px;
+    color: goldenrod;
+    font-size: 16px;
+    border: 0.3em solid;
+    border-radius: 0.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: sans-serif;
+    letter-spacing: 0.1em;
 }
 
 .alternativaa{
@@ -284,11 +370,75 @@ table {
     margin-bottom: 50px;
 }
 
+.buttom3:hover{
+    color: goldenrod;
+    box-shadow: #ff7b00;
+}
+.buttom3{
+    text-align: center;
+    margin-left: 720px;
+    color: #ff5100;
+    background-color: #ffffff;
+    font-size: 14px;
+    border: 0.3em solid;
+    border-radius: 0.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: sans-serif;
+    letter-spacing: 0.1em;
+    margin-bottom: 50px;
+}
+.buttom4{
+    margin-top:500px;
+    position: absolute;
+    text-align: center;
+    margin-left:0px;
+    color: #093647;
+    background-color:#0a747c;
+    font-size: 14px;
+    border: 0.3em solid;
+    border-radius: 0.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+.buttom5{
+    margin-top:700px;
+    position: absolute;
+    text-align: center;
+    margin-left:120px;
+    color: #093647;
+    background-color:#0a747c;
+    font-size: 14px;
+    border: 0.3em solid;
+    border-radius: 0.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+
+.buttom6{
+    margin-top:6370px;
+    position: absolute;
+    text-align: center;
+    margin-left:610px;
+    color: #093647;
+    background-color:#0a747c;
+    font-size: 14px;
+    border: 0.3em solid;
+    border-radius: 0.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+
 .buttom2:hover{
     color: goldenrod;
     box-shadow: #ff7b00;
 }
-
 .styleinput{
     margin-top: 20px;
     margin-left: 22px;
